@@ -1,0 +1,28 @@
+[{
+  "_id": "category-1",
+  "name": "Technology"
+},
+{
+  "_id": "category-2",
+  "name": "Education"
+},
+{
+  "_id": "category-3",
+  "name": "Travel"
+},
+{
+  "_id": "category-4",
+  "name": "Budgeting"
+},
+{
+  "_id": "category-5",
+  "name": "Language Learning"
+},
+{
+  "_id": "category-6",
+  "name": "Food"
+},
+{
+  "_id": "category-7",
+  "name": "Vegan"
+}]

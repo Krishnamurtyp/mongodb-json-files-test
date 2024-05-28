@@ -1,0 +1,42 @@
+[{
+  "_id": "comment-1",
+  "content": "This is an insightful post!",
+  "author_id": "user-2",
+  "post_id": "post-1",
+  "comment_date": "2024-05-27"
+},
+{
+  "_id": "comment-2",
+  "content": "I completely agree!",
+  "author_id": "user-1",
+  "post_id": "post-1",
+  "comment_date": "2024-05-27"
+},
+{
+  "_id": "comment-3",
+  "content": "Thanks for sharing these tips!",
+  "author_id": "user-1",
+  "post_id": "post-2",
+  "comment_date": "2024-05-27"
+},
+{
+  "_id": "comment-4",
+  "content": "Definitely trying this on my next backpacking trip!",
+  "author_id": "user-3",
+  "post_id": "post-2",
+  "comment_date": "2024-05-27"
+},
+{
+  "_id": "comment-5",
+  "content": "This is a great resource for language learners!",
+  "author_id": "user-2",
+  "post_id": "post-3",
+  "comment_date": "2024-05-27"
+},
+{
+  "_id": "comment-20",
+  "content": "Lovely yoga routine suggestions!",
+  "author_id": "user-1",
+  "post_id": "post-20",
+  "comment_date": "2024-05-29"
+}]

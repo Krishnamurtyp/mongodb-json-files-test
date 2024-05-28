@@ -1,0 +1,40 @@
+[{
+  "_id": "tag-1",
+  "name": "ai"
+},
+{
+  "_id": "tag-2",
+  "name": "blogging"
+},
+{
+  "_id": "tag-3",
+  "name": "technology"
+},
+{
+  "_id": "tag-4",
+  "name": "travel"
+},
+{
+  "_id": "tag-5",
+  "name": "backpacking"
+},
+{
+  "_id": "tag-6",
+  "name": "budget"
+},
+{
+  "_id": "tag-7",
+  "name": "language learning"
+},
+{
+  "_id": "tag-8",
+  "name": "education"
+},
+{
+  "_id": "tag-9",
+  "name": "tips"
+},
+{
+  "_id": "tag-20",
+  "name": "wellness"
+}]
